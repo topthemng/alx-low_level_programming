@@ -1,12 +1,14 @@
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
+#include <stdio.h>
+/*more headers goes there */
 
 /**
  * main - Entry point
  * print  random +ve, -ve or zero numbers
  * Return: always 0 (Success)
 */
+
 int main(void)
 {
 	int n;
